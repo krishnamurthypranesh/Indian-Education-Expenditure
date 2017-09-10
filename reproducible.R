@@ -4,7 +4,29 @@
 # 2011
 # The data is available on the data.gov.in site of the Indian Government
 
-sessionInfo()
+#R version 3.3.2 (2016-10-31)
+#Platform: x86_64-w64-mingw32/x64 (64-bit)
+#Running under: Windows >= 8 x64 (build 9200)
+
+#locale:
+#[1] LC_COLLATE=English_India.1252  LC_CTYPE=English_India.1252   
+#[3] LC_MONETARY=English_India.1252 LC_NUMERIC=C                  
+#[5] LC_TIME=English_India.1252    
+
+#attached base packages:
+#[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+#other attached packages:
+#[1] bindrcpp_0.2  readxl_1.0.0  ggplot2_2.2.1 readr_1.1.1   tidyr_0.7.0  
+#[6] dplyr_0.7.2  
+
+#loaded via a namespace (and not attached):
+ #[1] Rcpp_0.12.6      bindr_0.1        magrittr_1.5     hms_0.3         
+ #[5] munsell_0.4.3    colorspace_1.3-2 R6_2.2.0         rlang_0.1.2     
+ #[9] plyr_1.8.4       tools_3.3.2      grid_3.3.2       gtable_0.2.0    
+#[13] lazyeval_0.2.0   assertthat_0.1   tibble_1.3.4     purrr_0.2.3     
+#[17] glue_1.1.1       labeling_0.3     cellranger_1.1.0 scales_0.4.1    
+#[21] pkgconfig_2.0.1 
 
 
 # Load Packages -----------------------------------------------------------
