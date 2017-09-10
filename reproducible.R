@@ -76,17 +76,6 @@ for(i in seq_along(files)) {
 }
 
 
-# convert input data to numeric 
-
-# define conversion function
-
-convert_numeric <- function(x) {
-  for(i in seq_along(x)) {
-    x[[i]] <- parse_number(x[[i]])
-  }
-}
-
-
 # convert data in inputs to numeric
 
 for(i in seq_along(inputs)){
