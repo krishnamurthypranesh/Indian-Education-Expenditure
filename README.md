@@ -24,5 +24,5 @@ data %>%
   ggplot() + aes(x) + geom_density()
   
  # Motivation
- This project mainly stems from a curiosity to look at the recent trends in Indian Education. There will be a follow up project focusing on including more data and making visualizaitons shortly
+ This project mainly stems from a curiosity to look at the recent trends in Indian Education.
   
